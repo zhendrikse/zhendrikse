@@ -2,7 +2,7 @@
 
 #### My repository with TDD coaching materials
 
-:school: [TDD coaching materials](https://github.com/zhendrikse/tdd)
+:moneybag: [TDD coaching materials](https://github.com/zhendrikse/tdd)
 
 #### My blog posts
 :loudspeaker: [TDD or: How I learned to stop worrying and love writing tests](https://medium.com/ns-techblog/tdd-or-how-i-learned-to-stop-worrying-and-love-writing-tests-ef7314470305)
