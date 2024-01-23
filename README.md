@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-#### My repository with TDD coaching materials
+### My coding dojos
 
-:moneybag: [TDD coaching materials](https://github.com/zhendrikse/tdd)
+:moneybag: My repository with [TDD coaching materials](https://github.com/zhendrikse/tdd)
 
-#### My blog posts
+:moneybag: The associated TDD [Wiki pages](https://github.com/zhendrikse/tdd/wiki)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Online dojo" src="https://github.com/zhendrikse/tdd/blob/master/assets/DojoInAction.png" width="31%" height="31%"/>&nbsp;&nbsp;<img src="https://github.com/zhendrikse/tdd/blob/master/assets/zeger_teaching.jpg" alt="Coding dojo" width="25%" height="25%"/>
+
+
+### My blog posts
+
 :loudspeaker: [TDD or: How I learned to stop worrying and love writing tests](https://medium.com/ns-techblog/tdd-or-how-i-learned-to-stop-worrying-and-love-writing-tests-ef7314470305)
 
 :loudspeaker: [TDD and small steps: the Christmas tree kata](https://medium.com/ns-techblog/tdd-and-small-steps-the-christmas-tree-kata-ee23a8152a4b)
