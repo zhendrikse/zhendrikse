@@ -15,6 +15,10 @@
 
 :loudspeaker: [TDD and small steps: the Christmas tree kata](https://medium.com/ns-techblog/tdd-and-small-steps-the-christmas-tree-kata-ee23a8152a4b)
 
+:loudspeaker: [TDD and legacy code: creating a snapshot with approval tests](https://medium.com/ns-techblog/tdd-and-legacy-code-creating-a-snapshot-with-approval-tests-252327b6c72e) 
+
+:loudspeaker: [TDD and legacy code: moving behavior back to where it belongs](https://medium.com/ns-techblog/tdd-and-legacy-code-moving-behavior-back-to-where-it-belongs-db0a7ef8575f)
+
 :loudspeaker: [Splitting up a monolith using a team first approach](https://medium.com/ns-techblog/splitting-up-a-monolith-using-a-team-first-approach-5387b51efda0)
 
 <!--
