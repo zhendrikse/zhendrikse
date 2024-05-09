@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zeger][zeger-teaching-1.png]
+![Zeger](zeger-teaching-1.png)
 
 ### My coding dojos
 
