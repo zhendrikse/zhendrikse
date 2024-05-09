@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zeger](zeger-teaching-1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="zeger-teaching-1.png" alt="Zeger" width="25%" height="25%"/>
 
 ### My coding dojos
 
