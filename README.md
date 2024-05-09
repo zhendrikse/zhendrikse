@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Zeger][zeger-teaching-1.png]
+
 ### My coding dojos
 
 :moneybag: My repository with [TDD coaching materials](https://github.com/zhendrikse/tdd)
