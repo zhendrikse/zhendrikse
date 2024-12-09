@@ -14,7 +14,7 @@
 
 :moneybag: A [repository full of physics demos](https://github.com/zhendrikse/physics-in-python) in VPython
 
-<img alt="Harmonic oscillator" src="https://github.com/zhendrikse/physics-in-python/blob/main/src/demos/images/harmonic_oscillator.png" width="25%" height="25%"/>
+<img alt="Particle in field" src="https://github.com/zhendrikse/physics-in-python/blob/main/src/demos/images/particle_in_electric_field.png" width="35%" height="35%"/>
 
 ### My blog posts
 
