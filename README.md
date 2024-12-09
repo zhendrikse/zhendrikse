@@ -10,6 +10,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Online dojo" src="https://github.com/zhendrikse/tdd/blob/master/assets/DojoInAction.png" width="31%" height="31%"/>&nbsp;&nbsp;<img src="https://github.com/zhendrikse/tdd/blob/master/assets/zeger_teaching.jpg" alt="Coding dojo" width="25%" height="25%"/>
 
+### Physics in Python
+
+:moneybag: A [repository full of physics demos](https://github.com/zhendrikse/physics0in-python) in VPython
+
+<img alt="Harmonic oscillator" src="https://github.com/zhendrikse/physics-in-python/blob/main/src/demos/images/harmonic_oscillator.png" width="25%" height="25%"/>
 
 ### My blog posts
 
