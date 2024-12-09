@@ -12,7 +12,7 @@
 
 ### Physics in Python
 
-:moneybag: A [repository full of physics demos](https://github.com/zhendrikse/physics0in-python) in VPython
+:moneybag: A [repository full of physics demos](https://github.com/zhendrikse/physics-in-python) in VPython
 
 <img alt="Harmonic oscillator" src="https://github.com/zhendrikse/physics-in-python/blob/main/src/demos/images/harmonic_oscillator.png" width="25%" height="25%"/>
 
