@@ -14,7 +14,7 @@
 
 :moneybag: [My repository](https://github.com/zhendrikse/physics-in-python) containing physics visualization demos using [VPython](https://vpython.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Charged ring" src="https://github.com/zhendrikse/physics-in-python/raw/main/src/demos/images/electron_and_charged_ring.png" width="25%" height="25%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Charged ring" src="https://github.com/zhendrikse/physics-in-python/raw/main/src/demos/images/electromagnetic_wave.png" width="25%" height="25%"/>
 
 ### My blog posts
 
