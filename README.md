@@ -12,9 +12,9 @@
 
 ### Physics in Python
 
-:moneybag: A [repository full of physics demos](https://github.com/zhendrikse/physics-in-python) in VPython
+:moneybag: [Physics visualization](https://github.com/zhendrikse/physics-in-python) using [VPython](https://vpython.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Particle in field" src="https://github.com/zhendrikse/physics-in-python/blob/main/src/demos/images/particle_in_electric_field.png" width="35%" height="35%"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Charged ring" src="https://github.com/zhendrikse/physics-in-python/raw/main/src/demos/images/electron_and_charged_ring.png" width="25%" height="25%"/>
 
 ### My blog posts
 
