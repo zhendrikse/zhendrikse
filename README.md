@@ -14,7 +14,7 @@
 
 :moneybag: [My repository](https://github.com/zhendrikse/physics-in-python) containing physics visualizations using [VPython](https://vpython.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhendrikse/physics-in-python"><img alt="Antenna" src="https://github.com/zhendrikse/physics-in-python/raw/main/src/demos/images/antenna.png" width="50%" height="50%"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhendrikse/physics-in-python"><img alt="Axis" src="https://github.com/zhendrikse/physics-in-python/raw/main/src/demos/images/polar_coordinates.png" width="50%" height="50%"/></a>
 
 ### My blog posts
 
