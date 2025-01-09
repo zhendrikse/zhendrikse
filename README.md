@@ -12,9 +12,12 @@
 
 ### Physics in Python
 
-:moneybag: [My repository](https://github.com/zhendrikse/physics-in-python) containing physics visualizations written in Python.
+:moneybag: My [physics visualizations](https://github.com/zhendrikse/physics-in-python) written in VPython.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/zhendrikse/physics-in-python"><img alt="Axis" src="https://github.com/zhendrikse/physics-in-python/blob/main/images/polar_coordinates.png" width="50%" height="50%"/></a>
+<a href="https://github.com/zhendrikse/physics-in-python">
+<img alt="Polar coordinates" src="https://github.com/zhendrikse/physics-in-python/blob/main/images/polar_coordinates.png" width="45%" height="45%"/>
+<img alt="Plane wave" src="https://github.com/zhendrikse/physics-in-python/blob/main/images/plane_wave.png" width="45%" height="45%"/>
+</a>
 
 ### My blog posts
 
