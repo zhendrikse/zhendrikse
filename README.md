@@ -14,9 +14,9 @@
 
 :moneybag: My [physics visualizations](https://github.com/zhendrikse/physics-in-python) written in VPython.
 
-<a href="https://github.com/zhendrikse/physics-in-python">
-<img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/images/rutherford_scattering.png" width="45%" height="45%"/>
-<img alt="Plane wave" src="https://github.com/zhendrikse/physics-in-python/blob/main/images/plane_wave.png" width="50%" height="50%"/>
+<a href="https://zhendrikse.github.io/physics-in-python/index.html">
+<img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/rutherford_scattering.png" width="45%" height="45%"/>
+<img alt="Plane wave" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/plane_wave.png" width="50%" height="50%"/>
 </a>
 
 ### My blog posts
