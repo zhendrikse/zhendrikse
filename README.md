@@ -16,7 +16,7 @@
 
 <a href="https://zhendrikse.github.io/physics-in-python/index.html">
 <img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/rutherford_scattering.png" width="45%" height="45%"/>
-<img alt="Plane wave" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/plane_wave.png" width="50%" height="50%"/>
+<img alt="Spherical harmonics" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/atomic_orbitals.png" width="50%" height="50%"/>
 </a>
 
 ### My blog posts
