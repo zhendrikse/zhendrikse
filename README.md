@@ -15,7 +15,7 @@
 :moneybag: My [physics visualizations](https://zhendrikse.github.io/physics-in-python/) written in VPython.
 
 <a href="https://zhendrikse.github.io/physics-in-python/">
-<img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/rutherford_scattering.png" width="40%" height="40%"/>
+<img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/helical_motion.png" width="40%" height="40%"/>
 <img alt="Spherical harmonics" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/atomic_orbitals.png" width="40%" height="40%"/>
 </a>
 
