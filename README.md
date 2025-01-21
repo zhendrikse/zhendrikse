@@ -12,9 +12,9 @@
 
 ### Physics in Python
 
-:moneybag: My [physics visualizations](https://github.com/zhendrikse/physics-in-python) written in VPython.
+:moneybag: My [physics visualizations](https://zhendrikse.github.io/physics-in-python/) written in VPython.
 
-<a href="https://zhendrikse.github.io/physics-in-python/index.html">
+<a href="https://zhendrikse.github.io/physics-in-python/">
 <img alt="Rutherford scattering" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/rutherford_scattering.png" width="40%" height="40%"/>
 <img alt="Spherical harmonics" src="https://github.com/zhendrikse/physics-in-python/blob/main/docs/images/atomic_orbitals.png" width="40%" height="40%"/>
 </a>
