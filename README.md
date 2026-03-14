@@ -20,6 +20,8 @@
                                       ..:::::...
 -->
 
+<img alt="Me, myself, and I" src=zeger-teaching-1.png style="width: 25%"/>
+
 Please check out [my home page](https://www.hendrikse.name/) to get to know me better. 
 
 In short:
