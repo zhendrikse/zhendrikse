@@ -1,4 +1,4 @@
-```
+<!--
                                         .....                                          
                                   .:::--------::::..                                   
                           r    .::--====++++=====---::.   H                             
@@ -18,7 +18,7 @@
                                  :-=+*##*++++***+=-:.                                  
                                    ::-=========--:.                                    
                                       ..:::::...
-``` 
+-->
 
 Please check out [my home page](https://www.hendrikse.name/) to get to know me better. 
 
