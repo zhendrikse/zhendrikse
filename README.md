@@ -26,7 +26,7 @@ Please check out [my home page](https://www.hendrikse.name/) to get to know me b
 
 In short:
 
-- 🔭 I’m currently working on Helion ✨, my [science &amp; mathematics simulation library](https://www.hendrikse.name/helion/)✨
+- 🔭 I’m currently working on [Helion ✨](https://github.com/zhendrikse/helion), see [the web page and demos](https://www.hendrikse.name/helion/)✨
 - 🌱 I’m currently relearning the stuff I did as a student theoretical physics
 - 👯 I’m looking to collaborate on test-driven development
 - 🤔 I’m looking for help with my Helion ✨ library
