@@ -26,10 +26,10 @@ Please check out [my home page](https://www.hendrikse.name/) to get to know me b
 
 In short:
 
-- 🔭 I’m currently working on [Helion ✨](https://github.com/zhendrikse/helion), see [the web page and demos](https://www.hendrikse.name/helion/)✨
+- 🔭 I’m currently working on [Helion ✨](https://github.com/zhendrikse/helion), see also [the web page and demos](https://www.hendrikse.name/helion/)
 - 🌱 I’m currently relearning the stuff I did as a student theoretical physics
 - 👯 I’m looking to collaborate on test-driven development
-- 🤔 I’m looking for help with my Helion ✨ library
+- 🤔 I’m looking for help with my [Helion ✨](https://github.com/zhendrikse/helion) open source library
 - 💬 Ask me about anything!
 - 📫 How to reach me: zeger _dot_ hendrikse _at_ gmail _dot_ com
 - ⚡ Fun fact: ...
